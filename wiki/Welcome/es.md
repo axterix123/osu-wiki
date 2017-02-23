@@ -1,72 +1,95 @@
-Primero que nada, quisiéramos darte una cálida bienvenida y un abrazo por unirte a nuestra comunidad. Déjanos explicarte unas cosas antes de que empieces con tu aventura.
+<!-- wiki -->
+[Beatmaps wikilink]: /wiki/Beatmaps/ "Beatmaps"
+[Game_Modifiers wikilink]: /wiki/Game_Modifiers/ "Game Modifiers"
+[Multi wikilink]: /wiki/Multiplayer/ "Multi-play"
+[Performance_Points wikilink]: /wiki/Performance_Points/ "Performance Points"
+[Performance_Points#FAQ wikilink]: /wiki/Performance_Points#faq "Performance Points FAQ"
+[Accuracy wikilink]: /wiki/Accuracy/ "Accuracy"
+[Achievements wikilink]: /wiki/Achievements/ "Achievements"
+[Chat_Console wikilink]: /wiki/Chat_Console/ "Chat Console"
+[FAQ wikilink]: /wiki/FAQ/ "FAQ"
+[Glossary wikilink]: /wiki/Glossary/ "Glossary"
+[osu!academy wikilink]: /wiki/Announcements/osu!academy/ "osu!academy"
+[Beginner wikilink]: /wiki/Beginner/ "Beginner"
+[Beatmapping wikilink]: /wiki/Beatmapping/ "Beatmapping"
 
-![osu!](Osu-boxart.png "osu!")
+<!-- external -->
+[osu!tutorial_basic]: https://osu.ppy.sh/s/3756 "Installer's osu!tutorial by peppy"
+[Beatmaplist link]: https://osu.ppy.sh/p/beatmaplist "Official beatmaplist"
+[Packlist link]: https://osu.ppy.sh/p/packlist "Official packlist"
+[Beatmapping/Modding: Guide Compendium link]: https://osu.ppy.sh/forum/t/441929 "Beatmapping/Modding: Guide Compendium"
 
-\_\_TOC\_\_
+<!-- image -->
+[osu-boxart image]: ./osu-boxart.png "osu!boxart"
+[welcome00 image]: ./Welcome00.png "Beatmap listing search"
+[welcome01 image]: ./Welcome01.png "Beatmap listing search results"
+[welcome02 image]: ./Welcome02.png "Beatmap download"
+[welcome03 image]: ./Welcome03.png "Opening the .osz file"
+[welcome04 image]: ./Welcome04.png "Beatmap in the Song Selection screen"
+[Chat_Console friendlist image]: ./Chat_Console_friendlist.png "Chat Console's friendlist"
 
-El Tutorial
------------
+<!-- imágenes compartidas -->
+[.osz icon link]: /wiki/shared/osz_icon_full.png ".osz file, clean beatmap file"
+[Accuracy results image]: /wiki/shared/Accuracy_results.png "Accuracy of player"
 
-Antes de que empieces a jugar osu!, te recomendamos que juegues el tutorial primero ([Peter Lambert - osu! tutorial](http://osu.ppy.sh/s/3756)).
+<!-- Título -->
+# Bienvenido
+![osu!][osu-boxart image]
 
-Después de descargar e instalar osu!, ábrelo y una ventana llamada "osu! update" debería aparecer, espera por las actualizaciones. Cuando el juego inicie, habrá un gran botón de osu! en el centro. Solo dale clic y escoge el modo "Solo". Puedes buscar fácilmente por un beatmap en la librería simplemente escribiéndolo, pero lo que estás buscando ahora mismo es el "Tutorial". Este beatmap te enseñará los fundamentos de osu! Standard, como los "Hitcircles", los "Sliders" y los "Spinners".
+Primero que nada, quisiéramos darte una cálida bienvenida y un abrazo por unirte a nuestra comunidad. Déjanos explicarte algunas cosas antes de que empieces con tu aventura.
 
-Para técnicas de juego, tendrás que aprender conforme vayas jugando, pues es una habilidad que obtendrás solo con el tiempo. Algunos beatmaps están incluidos junto con el tutorial, los que te podrán servir también como guía.
+## El tutorial
+Antes de que empieces a jugar osu!, te recomendamos que primero juegues el tutorial ([Peter Lambert - osu! tutorial][osu!tutorial_basic]).
 
-**Nota:** Si por alguna razón no tienes el tutorial, puedes volver a descargarlo [justo aquí](http://osu.ppy.sh/b/22538). Después de jugar el tutorial, estarás listo para empezar a descargar diferentes beatmaps!
+Después de descargar e instalar osu!, ábrelo y una ventana llamada "osu! update" aparecerá, espera que se completen las actualizaciones. Cuando el juego inicie, habrá un gran botón de osu! en el centro. Solo dale clic y escoge el modo "Solo". Puedes buscar fácilmente un beatmap en la librería simplemente escribiéndolo, pero ahora estás buscando el "tutorial". Este beatmap te enseñará los fundamentos de osu! tales como los _hitcircles_, los _sliders_ y los _spinners_
 
-Cómo empezar a jugar tus canciones favoritas!
-=============================================
+No existen técnicas de juego definitivas, tendrás que aprender conforme vayas jugando, pues es una habilidad que obtendrás solo con el tiempo. Algunos beatmaps están incluidos junto con el tutorial, los cuales te podrán servir también como guía.
 
-*Explicación completa: [Beatmaps](ES:Beatmaps "wikilink")*
+**Nota:** Si por alguna razón no tienes el tutorial instalado, puedes descargarlo [aquí][osu!tutorial_basic]. Después de jugar el tutorial, ¡estarás listo para empezar a descargar diferentes y variados beatmaps!
 
-Paso 1 - ¡Encuentra la canción!
--------------------------------
+## ¡Cómo empezar a jugar tus canciones favoritas!
+_Explicación completa: [Beatmaps][Beatmaps wikilink]_
 
-"¿Qué es un beatmap?" Podrías preguntar, como en cualquier juego, este tiene niveles, o en ocasiones mapas. En Osu!, tenemos "beatmaps", que son exactamente lo que crees que son, son mapas con ritmo. ¡Encontrar beatmaps para canciones es fácil! Puedes encontrar todos los beatmaps subidos [aquí](http://osu.ppy.sh/p/beatmaplist). Puedes escribir cualquier cosa relacionada con la canción: nombre, artista, álbum, e incluso el género! Para este ejemplo, intentaremos encontrar "Coldplay - Don't Let It Break Your Heart".
+### Paso 1 - ¡Encuentra la canción!
+¿Qué es un beatmap?, te estarás preguntando. Casi cualquier juego se divide en niveles o, en algunas ocasiones, mapas. En osu! tenemos "beatmaps", que son exactamente lo que crees que son, son mapas con ritmo (beats). ¡Encontrar los beatmaps de las canciones es fácil! Puedes encontrar todos los beatmaps subidos al juego [aquí][Beatmaplist link]. Puedes escribir cualquier cosa relacionada con la canción que buscas: nombre, artista, álbum, ¡e incluso género! Para este ejemplo, intentaremos encontrar "Coldplay - Don't Let It Break Your Heart".
 
-<img src="welcome00.png" title="welcome00.png" alt="welcome00.png" width="580" />
+![][welcome00 image]
 
-Paso 2 - ¡Descárgala!
----------------------
+### Paso 2 - ¡Descárgala!
+Si hay un beatmap aprobado de la canción que estás buscando, deberías encontrarlo en los resultados. Sin embargo, ¡no te preocupes si tu canción no se encuentra allí! Hay cientos de beatmaps siendo presentados y revisados, por lo que tu canción puede que esté en camino. Por favor, **no solicites la creación de beatmaps que te gustarían**. La mayoría de mappers mappearán las canciones que **a ellos** les gusta, no lo que a ti te gusta, pero esta podría ser una motivación para empezar tu propia carrera de mapper.
 
-Si hay una versión aprobada de un beatmap de la versión que estás buscando, deberías encontrarla en los resultados. ¡Sin embargo no te preocupes si tu canción no está ahí! Hay cientos de beatmaps siendo presentados y revisados por lo que tu canción puede que esté en camino. "No solicites beatmaps que te gustarían", la mayoría de los mappers mapearán las canciones que "ellos" aman, no lo que tú amas, pero eso podría ser una pista para ti para empezar tu propia carrera de mapper.
+![][welcome01 image]
 
-<img src="welcome01.png" title="welcome01.png" alt="welcome01.png" width="580" />
+Una vez en la página del beatmap, deberás buscar un botón gigante que diga "Download Beatmap!" (debes haber iniciado sesión primero, de lo contrario, un botón amarillo te redirigirá a la página para iniciar sesión.
 
-Una vez en la página del beatmap, debería haber un botón gigante de "Descargar Beatmap" (debes haber iniciado sesión primero, de lo contrario, un botón amarillo te dirigirá a la página para iniciar sesión.
+![][welcome02 image]
 
-<img src="Welcome02.png" title="Welcome02.png" alt="Welcome02.png" width="580" />
+**Nota:** No importa dónde guardes el archivo mientras puedas encontrarlo una vez que la descarga haya finalizado. También puedes abrirlo directamente pero esto hará que osu! se inicie si no se encuentra ya en ejecución.
 
-**Nota:** No importa donde guardes el archivo siempre y cuando puedas encontrarlo después de que la descarga haya finalizado. También, puedes seleccionar abrirlo directamente pero esto forzará iniciar a Osu! si no está activado.
+### Paso 3 - Agrégalo a osu!
+![".osz" file, clean beatmap file][.osz icon link]
 
-Paso 3 - Agrégalo a osu!
-------------------------
+Una vez que tu descarga haya finalizado, deberás simplemente abrir el arhivo **.osz**. Si por alguna razón no puedes abrirlo, tendrás que arrastrar el archivo dentro de la ventana de osu!.
 
-Una vez que tu descarga haya finalizado, deberías ser capaz de abrir el beatmap en el archivo "'.osz"'. Si por alguna razón no es posible, tendrás que mantener y arrastrar el archivo dentro de la ventana de Osu.
+![][welcome03 image]
 
-<img src="welcome03.png" title="welcome03.png" alt="welcome03.png" width="580" />
+### Paso 4 - ¡Juega por diversión o compite con otros jugadores!
+Una vez abierto, osu! se iniciará (y probablemente actualizará). Para empezar a navegar por la librería de beatmaps, haz clic en el círculo gigante de osu! del medio, clic en "Play" y luego en "Solo". Tu nuevo beatmap (además del tutorial) debería estar listado ahí. Elige la dificultad que desees y estarás listo para convertirte en un jugador de osu! También puedes jugar en "Multi" (multijugador) en lugar de "Solo", donde los jugadores compiten en partidas en vivo. Tú también puedes ser parte de la diversión.
 
-Paso 4 - ¡Juega por diversión o compite con otros jugadores!
-------------------------------------------------------------
+![][welcome04 image]
 
-Una vez abierto, osu! se iniciará (y probablemente actualizará). Para empezar a navegar por la librería de beatmaps, solo da clic en el círculo gigante de Osu! en el medio, clic "Play", "Solo". Tu nuevo beatmap (junto con el tutorial) debería estar listado ahí. Elige la dificultad que quieras jugar y estarás listo para convertirte en un jugador de Osu! También puedes jugar multijugador en lugar "Solo", donde jugadores competirán en juegos en vivo. Tú también puedes ser parte de la diversión.
+¡Allá vamos! Ahora estás listo para jugar osu!. Si tienes algún problema, siéntete libre de pedir ayuda en los foros o dentro del juego (presiona F8 para abrir la ventana del chat, y abre la ventana \#help).
 
-<img src="welcome04.png" title="welcome04.png" alt="welcome04.png" width="580" />
+## Modos de juego
 
-¡Ahí vamos! Ahora estás listo para jugar osu!. Si tienes algún problema, siéntete libre de preguntar por ayuda en los foros o dentro del juego (presiona F8 para abrir la ventana del chat, en \#help).
+### Solo
+¿Qué es exactamente el modo de juego "Solo"? Básicamente, este es el modo de juego que puede ser jugado tanto offline como online. No tiene límites, puedes jugar cualquier map que tengas, usar el [modificador de juego][Game_Modifiers wikilink] (a veces llamados "modificadores de puntuación") que desees, pausar el juego cuando ya no sientas tus dedos, y reiniciar la partida cuando creas que tu puntuación o precisión es muy baja. También puedes ver la tabla de posiciones local o general, o mirar sus repeticiones con solo un clic. Puedes presionar "F2" para guardar una repetición externamente para que puedas disfrutarla sin tener que molestarte en buscarla.
 
-Modos de Juego
-==============
+### Multijugador
+_Explicación completa: [Multi][Multi wikilink]_
 
-Un Jugador (Solo)
------------------
+Si te sientes un poco solitario jugando en el modo "Solo", siempre puedes unirte a una sala multijugador. El único requisito para jugar en multijugador es haber iniciado sesión con una cuenta con una conexión a internet decente. Para entrar al lobby, presiona el botón "Multi". Una vez dentro, encontrarás una gran variedad de salas donde participarás desde las partidas más fáciles hasta las aparentemente imposibles.
 
-Entonces qué es exactamente el modo de juego "Solo"? Básicamente, es el modo de juego que puede ser jugado offline y online por ti mismo. No tiene límites, puedes jugar cualquier mapas que tengas, usar cualquier [Mods](ES:Game_Modifiers "wikilink") (algunas veces llamados "modificadores de puntuación) que desees, pausar el juego cuando te canses, y reiniciarla cuando creas que tu puntuación o precisión es muy baja. También puedes ver la tabla de posiciones local u online y ver los resultados o mirar las repeticiones al dar clic en él. Puedes presionar "F2" para guardar una repetición externamente para que puedas disfrutarla sin tener que buscarla.
+Jugar en multijugador es una buena manera de hacer nuevas amistades y comparar tus habilidades con otros jugadores. Una vez que te unas a una partida, probablemente tendrás que descargar el beatmap escogido por el anfitrión. Haz clic en "Click here to download this map" (debería estar al lado derecho, en una pestaña rojiza), y tu navegador web abrirá la página informativa del beatmap. Simplemente haz clic en el gran botón de "Download Beatmap" (necesitas iniciar sesión primero) y abre el archivo .osz tan pronto como la descarga finalice. No te preocupes si crees que la descarga es muy lenta, la mayoría de los anfitriones esperarán a que tu descarga finalice o te preguntarán por el porcentaje de tu descarga. ¡No seas tímido y cuéntales! Si sientes que tomará un buen rato, puedes pedirles que jueguen sin ti (el anfitrión tiene un comando especial para ello, Force Start Game).
 
-Multijugador
-------------
-
-*Explicación completa: [Multijugador](ES:Multiplayer "wikilink")*
-
-Si te sientes un poco solo jugando en el modo de Un Jugador, siempre puedes unirte a un lobby multijugador. El requerimiento mínimo para jugar en multijugador ces únicamente una cuenta con una conexión de Internet decente. Para entrar, presiona el botón "Multi". Ahí, verás muchos opciones que van desde niveles "Fácil" a "Insane". Jugando en multijugador es una buena manera de hacer nuevos amigos y comparar tu habilidad con otros jugadores. Una vez que te unas a una partida, probablemente tendrás que descargar el beatmap escogido por el anfitrión. Clic en "Clic aquí para desccargar este mapa" (debería estar en la parte derecha, es una pestaña roja), y tu navegador web debería abrir la página para descargar el beatmap. Solo da clic en el gran botón de "Descargar el Beatmap" (necesitas iniciar sesión primero) y abrir el archivo .osz tan pronto como la descarga termine. No te preocupes si crees que la descarga es muy lenta, la mayoría de los anfitriones esperarán a que tu descarga finalice y te preguntarán por el porcentaje de la descarga. ¡No seas tímido y diles! Si sientes que tomará demasiado, puedes decirles que jueguen sin ti (el anfitrión tiene un comando especial para ello, Forzar Iniciar Juego). El gameplay de multijugador es ligeramente diferente al de un jugador, pues no podrás pausar el juego y los mods estarán limitados para que solo el anfitrión pueda seleccionarlos (este tiene el privilegio y puede dar permiso al activar "Mods Libres"). La característica única en el Multijugador es el Tag Co-Op (o Team Co-Op para hacerlo en equipo) y el Team VS. También, puedes ver los puntos de tus oponentes/compañeros de equipo mientras juegas, creando una intensa atmósfera mientras intentas asegurar tu lugar.
+La forma de jugar en multijugador es ligeramente diferente a la de "Solo", pues no podrás pausar el juego y los mods estarán limitados a los que el anfitrión seleccione (él tiene este privilegio y puede permitir jugar libremente con mods al activar "Free Mods"). Las características especiales de multijugador son Tag Co-Op (o Team Co-Op cuando se hace por equipos) y Team VS. Además, puedes ver los puntos de tus oponentes/compañeros de equipo mientras juegas, creando así una intensa atmósfera mientras intentas asegurar el podio.
