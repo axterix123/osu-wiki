@@ -206,7 +206,7 @@ Use code (inline) when noting:
 - the name of a file extension
   - i.e. `.jpg` or `.osz`
 
-When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifers.
+When noting a keyboard key, use capital letters for single characters and [Camel case](https://en.wikipedia.org/wiki/Camel_case) for modifiers.
 
 When naming a file extension, add a period (`.`) then the file extension in lower case letters.
 
@@ -238,7 +238,7 @@ As it may seem convenient to use, it could be misleading.
 Instead, take the page's title (from the top of page, or from the `<title>` tag) and use that as the link text.
 
 You can use either the reference or inline style links.
-If you are using the reference style linking, it is sugguested to place the reference links at the top of the article for quicker access.
+If you are using the reference style linking, it is suggested to place the reference links at the top of the article for quicker access.
 
 When linking to the osu!website, i.e. user profiles or beatmaps, use `osu.ppy.sh` not `new.ppy.sh`.
 `new.ppy.sh` is just a temporary subdomain for the new design.
@@ -262,7 +262,7 @@ If you are linking to a beatmapset, use this format as the link text:
 {artist} - {title} ({creator})
 ```
 
-All beatmapset difficutly urls looks like this: `osu.ppy.sh/s/{BeatmapSetID}`
+All beatmapset difficulty urls looks like this: `osu.ppy.sh/s/{BeatmapSetID}`
 
 ## Images
 
